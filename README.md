@@ -35,6 +35,7 @@ Dataset benchmark used in Role-mining literature obtained from the user access p
 |Permission-to-Role | [PA](dataset/D/PA.txt) |
 |Exception List           | [excs](dataset/D/excs.txt)|
 
+[All Max-SAT Formulas](https://www.dropbox.com/s/nqeygseycj675ze/domino.tar?dl=0)
 
 ## University
 
@@ -47,6 +48,8 @@ Dataset benchmark used in Role-ming literature generated from a template at the 
 |User-to-role      |[UA](dataset/U/UA.txt)  |
 |Permission-to-Role | [PA](dataset/U/PA.txt) |
 |Exception List           | [excs](dataset/U/excs.txt)|
+
+[All Max-SAT Formulas](https://www.dropbox.com/s/i41n16f6mh2g6yg/university.tar?dl=0)
 
 
 ## Firewall1
