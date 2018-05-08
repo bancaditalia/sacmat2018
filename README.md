@@ -64,7 +64,10 @@ Dataset benchmark used in Role-ming literature representing policies implemented
 |Permission-to-Role | [PA](dataset/F/PA.txt) |
 |Exception List           | [excs](dataset/F/excs.txt)|
 
+Max-SAT Formulas: [1](https://www.dropbox.com/s/p8eo8sdea5as5k6/b_0.0_exc_0_inputMaxSATSolver.cnf?dl=0),[2](https://www.dropbox.com/s/57kxc71u7hmj66p/b_0.05_exc_0_inputMaxSATSolver.cnf?dl=0)
 
+<!---[1](dataset/D/UPA.txt), [2](dataset/D/UPA.txt), [3](dataset/D/UPA.txt), [4](dataset/D/UPA.txt), [5](dataset/D/UPA.txt), [6](dataset/D/UPA.txt), [7](dataset/D/UPA.txt), [8](dataset/D/UPA.txt), [9](dataset/D/UPA.txt), [10](dataset/D/UPA.txt), [11](dataset/D/UPA.txt), [12](dataset/D/UPA.txt), [13](dataset/D/UPA.txt), [14](dataset/D/UPA.txt), [15](dataset/D/UPA.txt), [16](dataset/D/UPA.txt), [17](dataset/D/UPA.txt), [18](dataset/D/UPA.txt), [19](dataset/D/UPA.txt), [20](dataset/D/UPA.txt), [21](dataset/D/UPA.txt), [22](dataset/D/UPA.txt), [22](dataset/D/UPA.txt), [23](dataset/D/UPA.txt), [24](dataset/D/UPA.txt), [25](dataset/D/UPA.txt), [26](dataset/D/UPA.txt), [27](dataset/D/UPA.txt), [28](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt), [1](dataset/D/UPA.txt)
+-->
 
 
 
